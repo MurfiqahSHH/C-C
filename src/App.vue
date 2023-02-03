@@ -1,7 +1,9 @@
 <template>
-  <h1 class="">this is my first page</h1>
+  <RouterView />
 </template>
 
 <script setup lang="ts">
+import LayoutWrapper from './components/Layout/LayoutWrapper.vue';
+
 const something  = 1
 </script>
