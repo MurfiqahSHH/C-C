@@ -4,7 +4,7 @@
 
 .router-link-active{
   @apply 
-  text-red-600
+  text-gray-800
   font-bold
   ;
 
