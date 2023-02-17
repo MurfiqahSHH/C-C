@@ -9,3 +9,15 @@
   ;
 
 }
+
+.ccButton{
+  @apply 
+  bg-green-600 
+  text-white 
+  p-2 
+  rounded-lg
+  border-2 
+  cursor-pointer
+  hover:bg-green-800
+  border-gray-200
+}
