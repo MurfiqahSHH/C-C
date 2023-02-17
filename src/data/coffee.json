@@ -1,0 +1,20 @@
+{ "coffees" : [
+    {
+        "name" : "coffee1",
+        "price": 5.99,
+        "description": "This is coffee 1",
+        "image" : "https://www.fillmurray.com/640/360"
+},
+{
+    "name" : "coffee2",
+    "price": 7.99,
+    "description": "This is coffee 2",
+    "image" : "https://www.fillmurray.com/640/700"
+},
+{
+    "name" : "coffee3",
+    "price": 8.99,
+    "description": "This is coffee 1",
+    "image" : "https://www.fillmurray.com/640/400"
+}
+]}

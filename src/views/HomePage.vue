@@ -15,7 +15,4 @@
 import LandingBanner from "@/components/LandingBanner.vue";
 import LayoutWrapper from "@/components/Layout/LayoutWrapper.vue";
 
-const shownColor = "someth";
 </script>
-
-<style lang="postcss" scoped></style>
